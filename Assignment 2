@@ -1,0 +1,9 @@
+num=int(input('enter number:')) 
+if num>0:
+       print('number is positive')
+else:
+       print('number is negative')
+
+output
+enter number:-89
+number is negative
